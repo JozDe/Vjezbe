@@ -6,9 +6,9 @@
     <datumrod>25.10.2005</datumrod>
     <godinastud>2</godinastud>
     <studprogram>Informatički dizajn</studprogram>
-    <ulica>Zanatska</ulica>
+</student>
+<adresa>
+     <ulica>Zanatska</ulica>
     <grad>Samobor</grad>
     <postanskibroj>10430</postanskibroj>
-</student>
-
-
+</adresa>
