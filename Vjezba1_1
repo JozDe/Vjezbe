@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Josip</ime>
+    <prezime>Dumić</prezime>
+    <JMBAG>0246127270</JMBAG>
+    <datumrod>25.10.2005</datumrod>
+    <godinastud>2</godinastud>
+    <studprogram>Informatički dizajn</studprogram>
+    <ulica>Zanatska</ulica>
+    <grad>Samobor</grad>
+    <postanskibroj>10430</postanskibroj>
+</student>
+
+
