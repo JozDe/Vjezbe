@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Josip</ime>
+    <prezime>Dumić</prezime>
+    <JMBAG>0246127270</JMBAG>
+    <datumrod>25.10.2005</datumrod>
+    <godinastud>2</godinastud>
+    </student>
+    <kontakt>
+        <email>jdumic@tvz.hr</email>
+        <telefon>0981683095</telefon>
+    </kontakt>
+    <kolegij1>
+        <nazivkolegija>Podatkovna povezanost i digitalna infrastruktura</nazivkolegija>
+        <imeprof>AlenŠimec<imeprof>
+        <brojects>5<brojects>
+    </kolegij1>
+    <kolegij2>
+        <nazivkolegija>Programiranje web aplikacija</nazivkolegija>
+        <imeprof>AlenŠimec<imeprof>
+        <brojects>5<brojects>
+    </kolegij2>
+    <kolegij3>
+        <nazivkolegija>Digitalna fotografija</nazivkolegija>
+        <imeprof>MilanBajić<imeprof>
+        <brojects>4<brojects>
+    </kolegij3>
